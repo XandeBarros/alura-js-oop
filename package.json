@@ -1,0 +1,20 @@
+{
+  "name": "pre-cowtando",
+  "version": "1.0.0",
+  "description": "Alura Curso js - oop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XandeBarros/alura-js-oop"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XandeBarros/alura-js-oop/issues"
+  },
+  "homepage": "https://github.com/XandeBarros/alura-js-oop",
+  "type": "module"
+}
